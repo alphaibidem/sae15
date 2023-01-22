@@ -3,6 +3,14 @@ import webbrowser
 import matplotlib.pyplot as plt
 import numpy as np
 
+'''  
+
+-La bibliothèque csv est utilisée pour lire et écrire des fichiers CSV.
+-La bibliothèque webbrowser vous permet d'ouvrir des pages web dans votre navigateur par défaut.
+-matplotlib.pyplot est une bibliothèque pour créer des graphiques et des visualisations de données.
+-La bibliothèque numpy est utilisée pour la manipulation de tableaux numériques et l'analyse de données en Python.
+
+'''
 
 
 #Ici, nous allons ouvrir et lire notre fichier non traité que nous allons traiter et dont nous allons extraire les données importantes.

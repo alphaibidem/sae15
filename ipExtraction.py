@@ -45,5 +45,5 @@ print("Destinataires des requêtes de l'adresse IP", most_common_ip)
 for dest, count in request_info.items():
     print("Destinataire: ", dest)
     print("Nombre de requêtes: ", count)
-    time = line.split(" ")[0]
+    
 
